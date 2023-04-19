@@ -1,0 +1,84 @@
+
+header img{
+    height: auto;
+    width: 100%;
+}
+header h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    z-index: 1;
+}
+h1{
+    text-align: center;
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    width:100%;
+    height: 300px;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: larger;
+}
+.his{
+    background-color:ivory;
+    width: 100%;
+    margin: 0px;
+    padding: 5px;
+}
+.okay{
+    background-color: #f44a53;
+    padding: 5px;
+    color:white;
+    margin: 0;
+    width: 100%;
+}
+.rec{
+    background-color:#ff97a5;
+    width:100%;
+    Padding: 5px;
+}
+.foot {
+    font-size: 10px;
+    text-align: center;
+    padding: top;
+}
+
+a:link{
+    color: #ff8800;
+}
+a:visited{
+    color: #f44a53;
+}
+a:hover{
+    color: #FEC6C5;
+}
+.my-button {
+    background-color: #60b9b2; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 8px;
+  }
+
+
+  
+/* .colorcodes{
+    color: #f44a53;
+    color: #f4c717;
+    color: #ff97a5;
+    color: #ff8800;
+    color: #60b9b2;
+    Color: #3f7aab;
+    color: #39a343;
+    Color: #a3735b;
+    Color: #bcb0ab;
+} */
